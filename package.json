@@ -3,6 +3,7 @@
   "version": "1.7.0",
   "description": "Blazing-fast binary parser builder",
   "main": "dist/binary_parser.js",
+  "type": "module",
   "devDependencies": {
     "mocha": "^8.2.0",
     "nyc": "^15.1.0",
